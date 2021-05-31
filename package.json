@@ -1,0 +1,17 @@
+{
+  "name": "weight-tracker",
+  "version": "1.0.0",
+  "description": "A script that tracks weight and calorie intake over time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Reuben Reyes",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^7.2.0",
+    "date-fns": "^2.22.1",
+    "uuid": "^8.3.2",
+    "verror": "^1.10.0"
+  }
+}
